@@ -14,6 +14,11 @@ Cette documentation n'a pas pour but de servir a quiconque d'autre que moi, mais
 - 192.168.1.32-128 : Plage baux DHCP temporaires
 - 192.168.1.200-253 : Appareils connectés
 
+## Choix techniques
+### Ordinateur personnel
+- os : Archlinux provilégié car accès a des paquets recents et nombres graces à Aur, une doc bien maintenue, système minimal
+- Système de fichier : LUKS2/BTRFS
+- Window manager : sway
 
 
 
