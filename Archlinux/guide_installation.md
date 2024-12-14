@@ -4,8 +4,8 @@ loadkeys fr
 
 ## Réseau
 ## Wifi
-Lancer le manager wifi (Dans iwctl, l'auto completion fonctionne !=
-	iwctl
+Lancer le manager wifi (Dans iwctl, l'auto completion fonctionne !)
+    iwctl
 Forcer l'allumage
 	adapter phy0 set-property Powered on 
 Scanner les réseaux à portée
