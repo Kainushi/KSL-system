@@ -1,1 +1,3 @@
+git github-cli firefox libvirt 
 
+dnsmasq virt-manager qemu-full

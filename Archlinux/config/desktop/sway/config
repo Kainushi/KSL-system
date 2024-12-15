@@ -17,9 +17,9 @@ set $down j
 set $up k
 set $right l
 # Your preferred terminal emulator
-set $term alacritty
+set $term foot
 # Your preferred application launcher
-set $menu "rofi -show drun -show-icons"
+set $menu "wofi -show drun -show-icons"
 
 ### Output configuration
 output * background $HOME/.config/sway/wallpapers/darker_unicat.png fill
